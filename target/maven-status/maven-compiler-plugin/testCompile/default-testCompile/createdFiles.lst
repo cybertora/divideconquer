@@ -1,1 +1,3 @@
+org\example\geometry\ClosestPairTest.class
 org\example\sort\MergeSortTest.class
+org\example\select\DeterministicSelectTest.class
