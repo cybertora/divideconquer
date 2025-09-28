@@ -1,0 +1,4 @@
+Algorithm,n,time_ns,comparisons,swaps,distanceCalcs,depth
+mergesort,1000,784400,13505,12698,0,6
+quicksort,1000,874700,13544,2354,0,7
+mergesort,1000,746500,13432,12626,0,6
